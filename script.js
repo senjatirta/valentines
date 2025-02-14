@@ -11,7 +11,7 @@ const yesButtonStyle = window.getComputedStyle(yesButton);
 const maxYesWidth = parseFloat(yesButtonStyle.maxWidth);
 
 // array of gifs - in order
-const gifs = ["assets/images/love.gif", "assets/images/ketiban.gif", "assets/images/nangis-hp.gif", "assets/images/ketiban.gif", "assets/images/tarik-tangan.gif"];
+const gifs = ["assets/images/love.gif", "assets/images/nangis.gif", "assets/images/nangis-hp.gif", "assets/images/ketiban.gif", "assets/images/tarik-tangan.gif"];
 // array of messages
 const buttonMessages = ["Are you sure??", "lisss...please", "hikss beneran inih?", "You can't do this to me!", "ohnooooooooo", "last chance..."];
 
